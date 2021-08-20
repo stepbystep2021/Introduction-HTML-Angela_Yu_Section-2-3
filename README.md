@@ -1,5 +1,10 @@
 # Introduction-HTML-Angela_Yu_Section-2-3
-https://www.notion.so/TASKS-39123beff1a443aeb5759f5ef7c3ef76
+Командная работа сделано в Notion https://www.notion.so/TASKS-39123beff1a443aeb5759f5ef7c3ef76
+
+
+Наш канал в Youtube https://www.youtube.com/channel/UCLb_RGE3cG4JMUvimWlnGSQ
+
+
 Section 2: Introduction to HTML
 Introduction to HTML
 The Anatomy of an HTML Tag
@@ -10,6 +15,8 @@ HTML Lists
 HTML Image Elements
 HTML Links and Anchor Tags
 How to Ace this Course
+
+
 
 Section 3: Intermediate HTML
 HTML Tables
